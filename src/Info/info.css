@@ -49,6 +49,9 @@
         margin: 1em !important;
         padding-left: 1em !important;
     }
+    .info-left{
+        font-size: large;
+    }
     .icon-container{
         margin-left: 4em !important;
         height: 3em !important;

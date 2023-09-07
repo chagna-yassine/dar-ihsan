@@ -20,25 +20,27 @@
     },
     "Direction":{
         "D-Title": "Direction",
-        "N-V-P": "Youssef Al Nakrachi",
+        "N-V-P": "Youssef Al-Noqrashi",
         "Vice-President": "President de L'association",
         "Vice-President-t": "0659902295",
         "N-D": "Al Arbi Iadjo",
         "Directeur": "Directeur",
         "Directeur-t": "",
-        "N-F": "Mohamed Jamal Al Mochrif",
+        "N-F": "Mohamed Jamal Al-chrif",
         "Finance": "...",
         "Finance-t": ""
     },
     "About":{
         "About-Title": "A Propos De Nous",
-        "Type": "Association de soutien social, prend soin des perssone...",
-        "Service": "Accueil, Soin ..."
+        "Type1": "Type De L'association :",
+        "Type": "L'Institution de Protection Sociale prend en charge les personnes âgées en situation difficile. Personnes atteintes de maladies mentales et psychologiques, mendiants et vagabonds",
+        "Service1": "Services :",
+        "Service": "Soutien total, Réception, Abri, Nutrition, Suivi social, Fournir des services en nature, Aide médicale, Soutien psychologique, Activation sociale, Participation distinguée et efficace à la campagne, hivernale, La campagne des personnes âgées sans abri et la campagne de lutte contre la mendicité et le vagabondage, en coordination avec la Société Nationale de Coopération et les autorités locales"
     },
     "State":{
         "State-Title": "Nos Chiffres",
         "Employees1": "Direction: 1",
-        "Employees2": "...: 2",
+        "Employees2": "... : 2",
         "Employees3": "Employes: 13",
         "Part1": "Benifier :",
         "Part2": "Avec Besoin Specieaux : 92 Hommes et 53 Femmes",

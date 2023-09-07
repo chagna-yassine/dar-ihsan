@@ -15,7 +15,7 @@ const State = () => {
                     <div className="col-md-11">
                         <div className="card-body text">
                             <p className="card-text">{t("State.Employees1")}</p>
-                            <p className="card-text">{t("State.Employees2")}</p>
+                            {/* <p className="card-text">{t("State.Employees2")}</p> */}
                             <p className="card-text">{t("State.Employees3")}</p>
                         </div>
                     </div>
@@ -30,7 +30,7 @@ const State = () => {
                         <div className="card-body text">
                             <p className="card-text">{t("State.Part1")}</p>
                             <p className="card-text">{t("State.Part2")}</p>
-                            <p className="card-text">{t("State.Part3")}</p>
+                            {/* <p className="card-text">{t("State.Part3")}</p> */}
                             <p className="card-text">{t("State.Part4")}</p>
                             <p className="card-text">{t("State.Part5")}</p>
                         </div>
