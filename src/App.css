@@ -1,5 +1,8 @@
+@import "./vars.css";
+
 .App {
   text-align: center;
+  background-color: var(--color-primary);
 }
 
 .App-logo {

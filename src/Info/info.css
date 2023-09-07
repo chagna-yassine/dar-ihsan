@@ -1,0 +1,8 @@
+@import "../vars.css";
+
+.main-container{
+    height: fit-content;
+    margin-left: 3em;
+    margin-right: 3em;
+    background-color: transparent;
+}
