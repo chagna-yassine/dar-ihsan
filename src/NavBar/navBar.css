@@ -37,7 +37,10 @@
 }
 
 .menuBtn {
+  position: absolute;
   visibility: hidden;
+  color: var(--dark);
+  top: 0%;
 }
 
 @media screen and (max-width: 830px) {
@@ -57,9 +60,11 @@
   }
 
   .menuBtn {
+    position: absolute;
     visibility: visible;
     display: block;
     cursor: pointer;
+    top: 0%;
   }
 
   .menuItems {

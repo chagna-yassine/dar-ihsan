@@ -1,0 +1,45 @@
+@import "../vars.css";
+
+.info-title{
+    margin: 3em;
+}
+.mainInfo-container{
+    height: fit-content;
+    margin: 4em;
+    padding-left: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border: 1px var(--color-dark) solid;
+    border-radius: 30px;
+    background-color: transparent;
+}
+.info-container{
+    color: var(--dark);
+    align-items: center;
+}
+.info-left{
+    text-align: left;
+    margin-left: 1em;
+    align-items: center;
+    font-size: x-large;
+    /* justify-content: center; */
+}
+.info-right{
+    text-align: right;
+    align-items: center;
+    font-size: x-large;
+    /* justify-content: center; */
+}
+.icon-container{
+    display: flex;
+    background-color: var(--color-secondary);
+    border-radius: 50%;
+    height: 5em;
+    width: 5em;
+    align-items: center;
+    justify-content: center;
+}
+.icon{
+    height: 3em;
+    width: 3em;
+}
