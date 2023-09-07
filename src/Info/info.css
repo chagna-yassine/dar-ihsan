@@ -58,4 +58,13 @@
         height: 2em !important;
         width: 2em !important;
     }
+    #icon1{
+        display: none;
+    }
+    #icon2{
+        display: none;
+    }
+    #icon2{
+        display: none;
+    }
 }

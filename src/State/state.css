@@ -17,15 +17,9 @@
     color: var(--dark);
     align-items: center;
 }
-.info-left{
-    text-align: left;
+.text{
+    text-align: center;
     margin-left: 1em;
-    align-items: center;
-    font-size: x-large;
-    /* justify-content: center; */
-}
-.info-right{
-    text-align: right;
     align-items: center;
     font-size: x-large;
     /* justify-content: center; */
@@ -42,4 +36,11 @@
 .icon{
     height: 3em;
     width: 3em;
+}
+
+@media screen and (max-width: 830px) {
+    .text{
+        font-size: small;
+        /* justify-content: center; */
+    }
 }

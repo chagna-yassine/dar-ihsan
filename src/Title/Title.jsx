@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "./title.css"
-import img from '../Images/main/bg.jpeg';
+import img from '../Images/main/bg2.jpeg';
 import { useTranslation } from 'react-i18next';
 
 const Title = () => {
@@ -12,7 +12,7 @@ const Title = () => {
                 <div className="col-md-4">
                     <div className="card-body">
                         <h1 className="main-title">{t("Title.Main-Title")}</h1>
-                        <h4 className="main-text">{t("Title.Sub-Title")}</h4>
+                        <h1 className="main-title">{t("Title.Sub-Title")}</h1>
                     </div>
                 </div>
                 <div className="col-md-8 image">

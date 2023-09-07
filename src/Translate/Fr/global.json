@@ -21,11 +21,14 @@
     "Direction":{
         "D-Title": "Direction",
         "N-V-P": "Youssef Al Nakrachi",
-        "Vice President": "President de L'association \n 0659902295",
+        "Vice-President": "President de L'association",
+        "Vice-President-t": "0659902295",
         "N-D": "Al Arbi Iadjo",
         "Directeur": "Directeur",
+        "Directeur-t": "",
         "N-F": "Mohamed Jamal Al Mochrif",
-        "Finance": "..."
+        "Finance": "...",
+        "Finance-t": ""
     },
     "About":{
         "About-Title": "A Propos De Nous",
@@ -33,9 +36,15 @@
         "Service": "Accueil, Soin ..."
     },
     "State":{
-        "State-Title": "Nos Chiffre",
-        "Employees": "Direction: 1 \n...: 2\nEmployes: 13",
-        "Part": "Benifit\n...: 92 Homme et 53 Femme\n...: 11 Homme et 6 Femme\n...: 81 Homme et 47 Femme\n...: 25 Homme et 30 Femme\n"
+        "State-Title": "Nos Chiffres",
+        "Employees1": "Direction: 1",
+        "Employees2": "...: 2",
+        "Employees3": "Employes: 13",
+        "Part1": "Benifier :",
+        "Part2": "Avec Besoin Specieaux : 92 Hommes et 53 Femmes",
+        "Part3": "...: 11 Hommes et 6 Femmes",
+        "Part4": "Handicap Physique : 81 Hommes et 47 Femmes",
+        "Part5": "Handicap Mentale : 25 Hommes et 30 Femmes"
     },
     "Contact":{
         "Contact-Title": "Contact",

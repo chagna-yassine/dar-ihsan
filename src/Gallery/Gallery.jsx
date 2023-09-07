@@ -2,6 +2,8 @@ import React from 'react';
 import Gallery from 'react-image-gallery';
 import ReactPlayer from 'react-player';
 import img from "../Images/main/bg.jpeg";
+import img1 from "../Images/main/bg2.jpeg"
+import img2 from "../Images/main/bg3.jpg"
 import vd from "../Images/video/video1.mp4";
 import { useTranslation } from 'react-i18next';
 import 'react-image-gallery/styles/css/image-gallery.css';
@@ -12,13 +14,17 @@ const images = [
     thumbnail: img, 
   },
   {
-    original: img, 
-    thumbnail: img, 
+    original: img1, 
+    thumbnail: img1, 
+  },
+  {
+    original: img2, 
+    thumbnail: img2, 
   },
 ];
 
 const videos = [
-  vd,
+  "https://www.youtube.com/watch?v=Ql8uHsXY02s&t=17s",
 ];
 
 const ImageGallery = () => {
