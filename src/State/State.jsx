@@ -1,17 +1,20 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { useTranslation } from 'react-i18next';
 import "./state.css"
 
 const State = () => {
+    const [ t , i18n ] = useTranslation("global");
+
     return (
         <>
             <h1 className='info-title'>
-                Informations
+                {t("State.State-Title")}
             </h1>
             <div className="card mb-3 mainInfo-container">
                 <div className="row g-0 info-container">
                     <div className="col-md-8">
                         <div className="card-body info-left">
-                            <p className="card-text">Localisation</p>
+                            <p className="card-text">{t("State.Employees")}</p>
                         </div>
                     </div>
                     <div className="col-md-4 icon-container">
@@ -23,7 +26,7 @@ const State = () => {
                 <div className="row g-0 info-container">
                     <div className="col-md-8">
                         <div className="card-body info-left">
-                            <p className="card-text">Date de creation</p>
+                            <p className="card-text">{t("State.Part")}</p>
                         </div>
                     </div>
                     <div className="col-md-4 icon-container">

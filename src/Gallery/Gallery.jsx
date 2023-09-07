@@ -1,8 +1,9 @@
 import React from 'react';
 import Gallery from 'react-image-gallery';
 import ReactPlayer from 'react-player';
-import img from "../Images/main/bg.jpeg"
-import vd from "../Images/video/video1.mp4"
+import img from "../Images/main/bg.jpeg";
+import vd from "../Images/video/video1.mp4";
+import { useTranslation } from 'react-i18next';
 import 'react-image-gallery/styles/css/image-gallery.css';
 
 const images = [
@@ -21,10 +22,12 @@ const videos = [
 ];
 
 const ImageGallery = () => {
+  const [ t , i18n ] = useTranslation("global");
+
   return (
     <div className="image-gallery-container" id='gallery'>
         <h1 className='info-title'>
-            Galery
+            {t("Gallery.G-Title")}
         </h1>
         <Gallery items={images} />
         <div className='video-container'>

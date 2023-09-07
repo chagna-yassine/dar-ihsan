@@ -6,7 +6,7 @@
     background-color: var(--color-bg);
 }
 .about-title{
-    font-size: x-large;
+    /* font-size: large; */
     margin-bottom: 3em;
     margin-top: 2em;
     color: var(--color-primary);

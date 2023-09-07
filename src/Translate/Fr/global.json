@@ -1,100 +1,46 @@
 {
-    "home":"Menu",
-    "welcome":"مرحبًا بك",
-    "to":"في",
-    "login":{
-        "label":"تسجيل الدخول",
-        "form-label-user":"اسم المستخدم",
-        "form-label-pwd":"كلمة المرور",
-        "forgot-pwd":"نسيت كلمة المرور؟",
-        "submit":"تسجيل الدخول",
-        "link":"أليس لديك حساب؟",
-        "Errs":{
-            "authErr":"اسم المستخدم او الرقم السري غير صحيح"
-        }
+    "NavBar":{
+        "Home": "Menu",
+        "Gallery": "Gallery",
+        "About": "Info",
+        "Contact": "Contact"
     },
-    "signup":{
-        "label":"الاشتراك",
-        "form-label-fname":"الاسم",
-        "form-label-lname":"النسب",
-        "form-label-age":"العمر",
-        "form-label-tel":"الهاتف",
-        "form-label-mail":"البريد الإلكتروني",
-        "form-label-user":"اسم المستخدم",
-        "form-label-pwd-1":"كلمة المرور",
-        "form-label-pwd-2":"تأكيد كلمة المرور",
-        "submit":"الاشتراك",
-        "link":"هل لديك حساب بالفعل؟",
-        "Errs":{
-            "firstNameErr":"الاسم ضروري",
-            "lastNameErr":"الاسم ضروري",
-            "invalidNameErr":"أدخل إسما حقيقيا",
-            "ageErr":"السن ضروري",
-            "underAgeErr":"أنت تحت السن القانوني",
-            "invalidAErr":"أدخل عمرا صحيحا",
-            "phoneErr":"الهاتف ضروري",
-            "invalidPhoneErr":"أدخل هاتفًا صالحًا",
-            "emailErr":"البريد الإلكتروني ضروري",
-            "invalidEmailErr":"أدخل بريدا إلكترونيا صالحًا",
-            "usernameErr":"اسم المستخدم ضروري",
-            "invalidUsernameErr":"أدخل اسم مستخدم صالح",
-            "passwordErr":"كلمة المرور ضرورية",
-            "invalidPasswordErr":"أدخل كلمة مرور صالحة",
-            "confirmedPasswordErr":"التأكيد ضروري",
-            "indenticalPasswordErr":"يجب أن تكون كلمات المرور متطابقة",
-            "existedPhoneErr":"هذا الهاتف موجود بالفعل",
-            "existedEmailErr":"هذا البريد الإلكتروني موجود بالفعل",
-            "existedUsernameErr":"اسم المستخدم هذا الموجود بالفعل"
-        }
+    "Title":{
+        "Main-Title": "Dar AL-Bir Ihsan",
+        "Sub-Title": "Association de Service Social A Safi"
     },
-    "Main":{
-        "main":{
-            "label":"الرئيسية",
-            "notif":"إشعارات",
-            "cmnt":"علق على منشورك",
-            "like":"أعجب بمنشورك",
-            "share":"شارك منشورك",
-            "msg":"لديك رسالة من"
-        },
-        "search":{
-            "title" : "بحث",
-            "notFound":"لم يتم العثور على المستخدم",
-            "info":"استخدم شريط البحث للبحث عن الأصدقاء",
-            "searchedProfil":{
-                "title": "الملف الشخصي",
-                "follow":"متابعة",
-                "unfollow":"الغاء المتابعة",
-                "msg":"رسائل"
-            }
-        },
-        "addPost":{
-            "label":"إضافة منشور",
-            "create":"إنشاء منشور",
-            "postText":"ما الذي يدور في ذهنك؟",
-            "media":"صورة / فيديو",
-            "tag":"أذكر الأصدقاء",
-            "location":"إضافة موقع",
-            "post":"نشر"
-        },
-        "msgs":{
-            "title" : "رسائل",
-            "defaultOutlet":{
-                "heading":"رسائلك",
-                "par":"اضغط على المستخدم وستظهر رسائلك هنا"
-            },
-            "noConv":{
-                "heading":"لا محادثات؟",
-                "par":"ابحث عن أصدقاء لبدء المحادثات معهم"
-            }
-        },
-        "profile":{
-            "label":"الملف الشخصي",
-            "add":"إضافة المنشور",
-            "edit":"تعديل الملف الشخصي",
-            "posts":"المنشورات"
-        }
+    "Info":{
+        "Info-Title": "Information",
+        "Local": "Region Marrakech Safi ...",
+        "D-C": "Date de creation: 02 Aout 2013",
+        "C-B": "Bank Populair: 145590211160906787000624"
     },
-    "menu":{
-        "logout":"تسجيل خروج"
+    "Gallery":{
+        "G-Title": "Gallery"
+    },
+    "Direction":{
+        "D-Title": "Direction",
+        "N-V-P": "Youssef Al Nakrachi",
+        "Vice President": "President de L'association \n 0659902295",
+        "N-D": "Al Arbi Iadjo",
+        "Directeur": "Directeur",
+        "N-F": "Mohamed Jamal Al Mochrif",
+        "Finance": "..."
+    },
+    "About":{
+        "About-Title": "A Propos De Nous",
+        "Type": "Association de soutien social, prend soin des perssone...",
+        "Service": "Accueil, Soin ..."
+    },
+    "State":{
+        "State-Title": "Nos Chiffre",
+        "Employees": "Direction: 1 \n...: 2\nEmployes: 13",
+        "Part": "Benifit\n...: 92 Homme et 53 Femme\n...: 11 Homme et 6 Femme\n...: 81 Homme et 47 Femme\n...: 25 Homme et 30 Femme\n"
+    },
+    "Contact":{
+        "Contact-Title": "Contact",
+        "Email": "Email : darlbir61@gmail.com",
+        "Tele": "Telephone : 0659902295",
+        "C-B": "Bank Populair: 145590211160906787000624"
     }
 }

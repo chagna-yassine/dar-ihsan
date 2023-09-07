@@ -33,16 +33,16 @@ const NavBar = () => {
                 onClick={() => setMenuOpen(false)}
                 >
                 <li>
-                    <a href="#home">{t("home")}</a>
+                    <a href="#home">{t("NavBar.Home")}</a>
                 </li>
                 <li>
-                    <a href="#gallery">{t('menu.logout')}</a>
+                    <a href="#gallery">{t('NavBar.Gallery')}</a>
                 </li>
                 <li>
-                    <a href="#about">About</a>
+                    <a href="#about">{t("NavBar.About")}</a>
                 </li>
                 <li>
-                    <a href="#contact">Contact</a>
+                    <a href="#contact">{t("NavBar.Contact")}</a>
                 </li>
                 </ul>
             </div>
