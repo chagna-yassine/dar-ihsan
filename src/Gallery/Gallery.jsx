@@ -22,7 +22,7 @@ const videos = [
 
 const ImageGallery = () => {
   return (
-    <div className="image-gallery-container">
+    <div className="image-gallery-container" id='gallery'>
         <h1 className='info-title'>
             Galery
         </h1>

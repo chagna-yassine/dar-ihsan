@@ -4,5 +4,16 @@
     margin-top: 3em;
     margin-left: 0%;
     margin-right: 0%;
+    margin-bottom: 0% !important;
     background-color: var(--color-bg) !important;
+}
+.conatct-title1{
+    /* font-size: xx-large; */
+    margin: 3em;
+    color: var(--color-primary);
+    margin: 2em;
+}
+.conatct-title{
+    color: var(--color-primary);
+    margin: 2em;
 }

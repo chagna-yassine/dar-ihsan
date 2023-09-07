@@ -4,7 +4,7 @@ import img from '../Images/main/bg.jpeg';
 
 const Title = () => {
     return (
-        <div className="card mb-3 main-container">
+        <div className="card mb-3 main-container" id='home'>
             <div className="row g-0 title">
                 <div className="col-md-4">
                     <div className="card-body">

@@ -4,7 +4,7 @@ import img from '../Images/main/bg.jpeg';
 
 const About = () => {
     return (
-        <>
+        <section id='about'>
         <h1 className='info-title'>
             About
         </h1>
@@ -34,7 +34,7 @@ const About = () => {
                 </div>
             </div>
         </div>
-        </>
+        </section>
     );
 };
 
