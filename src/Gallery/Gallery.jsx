@@ -12,15 +12,7 @@ const images = [
   {
     original: img1, 
     thumbnail: img1, 
-  },
-  {
-    original: img, 
-    thumbnail: img, 
-  },
-  {
-    original: img2, 
-    thumbnail: img2, 
-  },
+  }
 ];
 
 const videos = [
