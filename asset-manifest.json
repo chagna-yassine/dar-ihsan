@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dar-ihsan/static/css/main.1f380fcd.css",
+    "main.js": "/dar-ihsan/static/js/main.dd76b883.js",
+    "static/js/787.b210ef87.chunk.js": "/dar-ihsan/static/js/787.b210ef87.chunk.js",
+    "static/media/bg.jpg": "/dar-ihsan/static/media/bg.4663b63d6da2ceab0903.jpg",
+    "static/media/bg3.jpg": "/dar-ihsan/static/media/bg3.10dee39141a744b069db.jpg",
+    "static/media/bg2.jpeg": "/dar-ihsan/static/media/bg2.bc6dcedf58738a9ad280.jpeg",
+    "index.html": "/dar-ihsan/index.html",
+    "main.1f380fcd.css.map": "/dar-ihsan/static/css/main.1f380fcd.css.map",
+    "main.dd76b883.js.map": "/dar-ihsan/static/js/main.dd76b883.js.map",
+    "787.b210ef87.chunk.js.map": "/dar-ihsan/static/js/787.b210ef87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f380fcd.css",
+    "static/js/main.dd76b883.js"
+  ]
+}
